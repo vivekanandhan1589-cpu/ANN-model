@@ -31,17 +31,17 @@ Churn (Target Variable)
 
 ⚙️ Tools & Technologies
 
-Python
+1.Python
 
-Jupyter Notebook
+2.Jupyter Notebook
 
-Pandas, NumPy
+3.Pandas, NumPy
 
-Matplotlib, Seaborn
+4.Matplotlib, Seaborn
 
-Scikit-learn
+5.Scikit-learn
 
-TensorFlow / Keras (ANN)
+6.TensorFlow / Keras (ANN)
 
 🧠 ANN Model Architecture
 
